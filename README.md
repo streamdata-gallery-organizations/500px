@@ -1,5 +1,10 @@
-# template
+# Streamdata.io API Gallery
+This is an entity that is currently being profiled. Right now, it is just a Github repository, README, and an APIs.json outlining some of the information regarding the company, organization, institution, or government agency.
 
-This is an organizational directory of APIs for Template.
+Eventually, it will possess as much information about this entity, and if it has an API, it will also possess OpenAPI definitions, and Postman Collections defining the surface area of the API. Each entry in the Streamdata.io API Gallery begins with a Github repository, then an APIs.json, and then OpenAPIs and Postman Collections when relevant.
 
-The underscore listings folder contains the APIs.json and OpenAPI indexes for all APIs in this repository.
+Once an entity has an OpenAPI it will be available within the Streamdata.io API Gallery, until then the companies profile will be used in a variety of other sites and applications.
+
+You can visit the gallery at: http://api.gallery.streamdata.io/
+
+Feel free to submit a pull request with any changes to the API.json, as well as any added OpenAPI, or Postman Collections -- you can also leave any issues via the Github Issues for this repository.
